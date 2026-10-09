@@ -1,6 +1,6 @@
 # Digital Lending Customer Journey & Funnel Analytics
 
-![Dashboard Preview](assets/dashboard_overview.png)
+![Dashboard Preview](assets/dashboard_overview1.png)
 
 ## 📌 Executive Summary
 An end-to-end analytics workflow simulating a digital credit platform's user acquisition and onboarding pipeline. The project focuses on diagnosing user attrition across multi-stage lending funnels, measuring marketing channel conversion efficiency (attribution), and identifying device-specific onboarding bottlenecks.
